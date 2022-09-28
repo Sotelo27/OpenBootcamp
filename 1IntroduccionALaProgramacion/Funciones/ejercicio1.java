@@ -1,4 +1,4 @@
-package Curso1.Funciones;
+package Funciones;
 
 public class ejercicio1 {
     public static void main(String[] args) {
